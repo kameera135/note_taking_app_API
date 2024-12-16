@@ -17,7 +17,7 @@ public partial class NotesContext : DbContext
 
     public virtual DbSet<Note> Notes { get; set; }
 
-   
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Note>(entity =>

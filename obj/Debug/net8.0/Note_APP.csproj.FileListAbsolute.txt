@@ -166,3 +166,4 @@ D:\programs\C#\Note_APP\obj\Debug\net8.0\refint\Note_APP.dll
 D:\programs\C#\Note_APP\obj\Debug\net8.0\Note_APP.pdb
 D:\programs\C#\Note_APP\obj\Debug\net8.0\Note_APP.genruntimeconfig.cache
 D:\programs\C#\Note_APP\obj\Debug\net8.0\ref\Note_APP.dll
+D:\programs\C#\Note_APP\obj\Debug\net8.0\Note_APP.sourcelink.json
